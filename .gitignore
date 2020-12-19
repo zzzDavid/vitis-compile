@@ -1,0 +1,6 @@
+./files/*
+archive/
+__pycache__
+.idea/
+.vscode/
+Caffe/__pycache__/
